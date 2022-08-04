@@ -1,4 +1,6 @@
 img{
     width: 50px;
-    
+    justify-content: space-between;
+    margin: 15px;
+   
 }
