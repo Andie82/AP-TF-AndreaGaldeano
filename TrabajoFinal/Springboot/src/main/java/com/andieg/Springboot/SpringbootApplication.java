@@ -1,13 +1,13 @@
-package com.portfolio.ang;
+package com.andieg.Springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AngApplication {
+public class SpringbootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AngApplication.class, args);
+		SpringApplication.run(SpringbootApplication.class, args);
 	}
 
 }

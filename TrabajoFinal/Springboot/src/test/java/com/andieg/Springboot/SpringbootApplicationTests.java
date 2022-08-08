@@ -1,10 +1,10 @@
-package com.portfolio.ang;
+package com.andieg.Springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AngApplicationTests {
+class SpringbootApplicationTests {
 
 	@Test
 	void contextLoads() {
